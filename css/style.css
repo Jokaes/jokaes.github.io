@@ -1,0 +1,21 @@
+body {
+    font-size: 150%;
+}
+
+@font-face{
+    font-family: "BigNoodleToo";
+    src: url("./fonts/big_noodle_titling.ttf");
+}
+
+@font-face{
+    font-family: "FuturaNo2D";
+    src: url("./fonts/futuraNo2D_W03_regular.ttf");
+}
+
+h1 {
+    font-family: "BigNoodleToo";
+}
+
+p {
+    font-family: "FuturaNo2D";
+}
